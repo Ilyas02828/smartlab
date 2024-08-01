@@ -22,3 +22,24 @@
 # LabData
 
 
+![dashboard](https://github.com/user-attachments/assets/0f6d89ff-397f-422e-a40d-53e02f93b9bc)
+# MedicineManagement
+# PharmacyManagement
+# MedicationSafety
+# PharmacyTech
+# DrugAdministration
+# EHR
+# ElectronicHealthRecords
+# PharmacySoftware
+# MedicationTracking
+# PrescriptionManagement
+# MedicationAdherence
+# PharmaceuticalCare
+# MedicationErrors
+# PharmacyAutomation
+# ClinicalPharmacy
+# MedicationTherapy
+# HealthcareIT
+# PharmacyServices
+# PharmacyWorkflow
+# DrugInventory
