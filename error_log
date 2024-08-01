@@ -1,0 +1,4 @@
+[09-Oct-2022 05:17:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/drenderv/public_html/isisoftwaresolution.com/ilyas/smartlab/login/server.php on line 11
+[09-Oct-2022 05:17:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/drenderv/public_html/isisoftwaresolution.com/ilyas/smartlab/login/server.php on line 11
+[09-Oct-2022 05:19:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'drendrooterv_ilyas'@'localhost' (using password: YES) in /home/drenderv/public_html/isisoftwaresolution.com/ilyas/smartlab/login/server.php on line 11
+[09-Oct-2022 05:19:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'drendrooterv_ilyas'@'localhost' (using password: YES) in /home/drenderv/public_html/isisoftwaresolution.com/ilyas/smartlab/login/server.php on line 11

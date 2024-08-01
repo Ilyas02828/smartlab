@@ -1,0 +1,1 @@
+<script>window.location.href ='https://ilyas.isisoftwaresolution.com/smartlab/laboratory'; </script>
