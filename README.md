@@ -1,4 +1,4 @@
-##<h1> Laboratory Management System </h1>
+## <h1> Laboratory Management System </h1>
 <p>Our comprehensive Laboratory Management System, developed in PHP, is designed to efficiently handle various aspects of laboratory operations. The system meticulously records and manages detailed information related to medicines, patient tests, and other critical data. It tracks both the financial aspects of laboratory services, including the amounts for in-house and outsourced services. This robust solution ensures accurate documentation of test results, medication records, and patient details, streamlining laboratory processes and enhancing overall efficiency. With a user-friendly interface and extensive features, it supports seamless management of patient information and financial transactions, contributing to better operational oversight and improved service delivery.</p>
 
 # LabManagement
